@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "3deb6bd7-73e1-40cf-a5e4-ead19a52d79b",
+    "colName": "v-commerce-service",
+    "created": "2022-12-04T06:39:25.322Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "55f75d66-cdfa-44ab-8e7b-14d5e7b9609b",
+        "name": "product",
+        "containerId": "",
+        "created": "2022-12-04T06:39:36.887Z",
+        "sortNum": 10000
+      }
+    ]
+  }
+]

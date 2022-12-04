@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "05e7c4be-2963-458c-b5ef-b4166605b4e1",
+    "colId": "3deb6bd7-73e1-40cf-a5e4-ead19a52d79b",
+    "containerId": "55f75d66-cdfa-44ab-8e7b-14d5e7b9609b",
+    "name": "create",
+    "url": "http://localhost:1323/api/v1/products",
+    "method": "POST",
+    "sortNum": 10000,
+    "created": "2022-12-04T06:39:42.566Z",
+    "modified": "2022-12-04T06:45:13.935Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"Name\": \"Mastdscsdc\",\n  \"category\": \"ssscssdcss\",\n  \"Description\": \"dsvsdvdvsdvsvd dfsddsf\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
